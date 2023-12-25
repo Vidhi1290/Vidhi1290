@@ -14,7 +14,6 @@ Let's build a better future together! 🤝
 * ✉️  You can contact me at [vidhiwaghela99@gmail.com](mailto:vidhiwaghela99@gmail.com )
 * 🤝  I'm open to collaborating on Intersection of Cybersecurity and Data science, 🛡️ projects on Kaggle 📊 and in Healthcare AI 🏥.
 
-![](https://komarev.com/ghpvc/?username=Vidhi1290&color=ff69b4)
 ## Skills
 
 ### Computer vision
