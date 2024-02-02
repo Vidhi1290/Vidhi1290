@@ -1,6 +1,3 @@
-Certainly! I've organized and refined your profile, keeping a professional and clean theme. Here it is in markdown format:
-
-```markdown
 # Hi 👋, I'm Vidhi Waghela
 
 ## About Me
