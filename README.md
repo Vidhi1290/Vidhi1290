@@ -37,7 +37,14 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 
 ## Connect with Me
 
+## Connect with Me
+
 Let's connect! Find me on:
-![(https://www.github.com/Vidhi1290)](https://img.shields.io/badge/GitHub-%23202020.svg?style=for-the-badge&logo=github) [Instagram](http://www.instagram.com/vidhi_waghela__) ![Instagram](https://img.shields.io/badge/Instagram-%23202020.svg?style=for-the-badge&logo=instagram)[LinkedIn](https://www.linkedin.com/in/vidhi-waghela-434663198) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?style=for-the-badge&logo=linkedin)[Medium](http://www.medium.com/@datasciencemeetscybersecurity) ![Medium](https://img.shields.io/badge/Medium-%23202020.svg?style=for-the-badge&logo=medium)[Twitter](https://www.x.com/VidhiWaghela) ![Twitter](https://img.shields.io/badge/Twitter-%23202020.svg?style=for-the-badge&logo=twitter)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23202020.svg?style=for-the-badge&logo=github)](https://www.github.com/Vidhi1290)
+[![Instagram](https://img.shields.io/badge/Instagram-%23202020.svg?style=for-the-badge&logo=instagram)](http://www.instagram.com/vidhi_waghela__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vidhi-waghela-434663198)
+[![Medium](https://img.shields.io/badge/Medium-%23202020.svg?style=for-the-badge&logo=medium)](http://www.medium.com/@datasciencemeetscybersecurity)
+[![Twitter](https://img.shields.io/badge/Twitter-%23202020.svg?style=for-the-badge&logo=twitter)](https://www.x.com/VidhiWaghela)
 
 Feel free to explore my GitHub repositories, and don't forget to check out my [GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vidhi1290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true). Happy coding! 🚀
