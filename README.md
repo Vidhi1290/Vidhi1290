@@ -1,59 +1,40 @@
-# Hi 👋, I'm Vidhi Waghela
+# Hi there! 👋
 
-## Data Science 🔬 + Cybersecurity 🛡️ = Me!
+I'm Vidhi Waghela, a Data Science researcher and Cybersecurity enthusiast based in India. Welcome to my GitHub space, where I blend data science 🔬 and cybersecurity 🛡️ to make a meaningful impact in the tech world. 🚀
 
-Data science researcher and cybersecurity expert with a passion for leveraging technology to make a difference 🚀. I've developed machine learning algorithms for healthcare 🏥 and cybersecurity 🛡️, founded **Data Science Meets Cyber Security 🔬**, and earned a top-15 ranking as a cybersecurity researcher 🥇.
+## About Me
 
-Collaborating on projects 🤝, chatting about tech 💬, and always looking for new challenges 💯. Let's build a better future together! 🤝 
+I'm passionate about developing machine learning algorithms for healthcare 🏥 and fortifying digital realms with robust cybersecurity solutions 🛡️. As the founder of Data Science Meets Cyber Security 🔬, I take pride in being ranked among the top-15 cybersecurity researchers 🥇.
 
-- 🌍 I'm based in India
-- ✉️ You can contact me at [vidhiwaghela99@gmail.com](mailto:vidhiwaghela99@gmail.com)
-- 🤝 I'm open to collaborating on the Intersection of Cybersecurity and Data science 🛡️, projects on Kaggle 📊, and in Healthcare AI 🏥.
+Always up for collaboration 🤝, tech discussions 💬, and seeking new challenges 💯. Let's join forces and build a better future together! 🤝
+
+- 🌍  Based in India
+- ✉️  Reach out to me at [vidhiwaghela99@gmail.com](mailto:vidhiwaghela99@gmail.com)
+- 🤝  Open to collaborations in the Intersection of Cybersecurity and Data Science, projects on Kaggle 📊, and Healthcare AI 🏥.
 
 ## Skills
 
-### Data Science
+### Computer Vision
+- ![OpenCV](https://img.shields.io/badge/OpenCV-%23202020.svg?style=for-the-badge&logo=opencv)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-%23202020.svg?style=for-the-badge&logo=pytorch)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23202020.svg?style=for-the-badge&logo=tensorflow)
+- ![scikit-image](https://img.shields.io/badge/scikit--image-%23202020.svg?style=for-the-badge)
 
-| Skill                   | Level     |
-|-------------------------|-----------|
-| Machine Learning        | ⭐️⭐️⭐️⭐️ |
-| Deep Learning           | ⭐️⭐️⭐️⭐️ |
-| Computer Vision         | ⭐️⭐️⭐️   |
-| Artificial Intelligence | ⭐️⭐️⭐️⭐️ |
-| Data Analysis           | ⭐️⭐️⭐️⭐️ |
+### Artificial Intelligence
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23202020.svg?style=for-the-badge&logo=scikit-learn)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-%23202020.svg?style=for-the-badge&logo=pytorch)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23202020.svg?style=for-the-badge&logo=tensorflow)
+- ![scikit-optimize](https://img.shields.io/badge/scikit--optimize-%23202020.svg?style=for-the-badge&logo=scikit-optimize)
 
-### Cybersecurity
-
-| Skill                   | Level     |
-|-------------------------|-----------|
-| Network Security        | ⭐️⭐️⭐️⭐️ |
-| Ethical Hacking         | ⭐️⭐️⭐️   |
-| Penetration Testing     | ⭐️⭐️⭐️   |
-| Security Analytics      | ⭐️⭐️⭐️⭐️ |
-| Threat Intelligence     | ⭐️⭐️⭐️   |
-
-## Socials
-
-<p align="left">
-  <a href="https://www.github.com/Vidhi1290" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.instagram.com/vidhi_waghela__" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in//vidhi-waghela-434663198" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.medium.com/@datasciencemeetscybersecurity" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.x.com/VidhiWaghela" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-</p>
-
-## My GitHub Stats
-
-<a href="http://www.github.com/Vidhi1290">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhi1290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+### Machine Learning
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23202020.svg?style=for-the-badge&logo=scikit-learn)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-%23202020.svg?style=for-the-badge&logo=pytorch)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23202020.svg?style=for-the-badge&logo=tensorflow)
+- ![XGBoost](https://img.shields.io/badge/XGBoost-%23202020.svg?style=for-the-badge&logo=xgboost)
+- ![SVM](https://img.shields.io/badge/SVM-%23202020.svg?style=for-the-badge)
+- ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-%23202020.svg?style=for-the-badge)
+- ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-%23202020.svg?style=for-the-badge)
+- ![Random Forest](https://img.shields.io/badge/Random%20Forest-%23202020.svg?style=for-the-badge)
+- ![KNN](https://img.shields.io/badge/KNN-%23202020.svg?style=for-the-badge)
+- ![K-Means Clustering](https://img.shields.io/badge/K--Means%20Clustering-%23202020.svg?style=for-the-badge)
+- ![XGBoost](https://img.shields.io/badge/XGBoost-%23202020.svg?style=for-the-badge&logo=xgboost)
