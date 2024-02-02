@@ -37,8 +37,6 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 
 ## Connect with Me
 
-## Connect with Me
-
 Let's connect! Find me on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23202020.svg?style=for-the-badge&logo=github)](https://www.github.com/Vidhi1290)
@@ -47,4 +45,9 @@ Let's connect! Find me on:
 [![Medium](https://img.shields.io/badge/Medium-%23202020.svg?style=for-the-badge&logo=medium)](http://www.medium.com/@datasciencemeetscybersecurity)
 [![Twitter](https://img.shields.io/badge/Twitter-%23202020.svg?style=for-the-badge&logo=twitter)](https://www.x.com/VidhiWaghela)
 
-Feel free to explore my GitHub repositories, and don't forget to check out my [GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vidhi1290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true). Happy coding! 🚀
+**My GitHub Stats**
+
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vidhi1290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Vidhi1290)
+
+
+
