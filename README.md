@@ -33,7 +33,7 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 [![MySQL](https://img.shields.io/badge/MySQL-%23202020.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/) [![Flask](https://img.shields.io/badge/Flask-%23202020.svg?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 
 ### Operating Systems & Cloud
-[![macOS](https://img.shields.io/badge/macOS-%23202020.svg?style=for-the-badge&logo=apple)](https://apple.com) [![Linux](https://img.shields.io/badge/Linux-%23202020.svg?style=
+[![macOS](https://img.shields.io/badge/macOS-%23202020.svg?style=for-the-badge&logo=apple)](https://apple.com) [![Linux](https://img.shields.io/badge/Linux-%23202020.svg?style=for-the-badge&logo=linux)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-%23202020.svg?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows) [![AWS](https://img.shields.io/badge/AWS-%23202020.svg?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23202020.svg?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
 
 ## Connect with Me
 
@@ -44,5 +44,5 @@ Let's connect! Find me on:
 - [Medium](http://www.medium.com/@datasciencemeetscybersecurity)
 - [Twitter](https://www.x.com/VidhiWaghela)
 
-Feel free to explore my GitHub repositories and don't forget to check out my [GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vidhi1290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true). Happy coding! 🚀
+Feel free to explore my GitHub repositories, and don't forget to check out my [GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vidhi1290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true). Happy coding! 🚀
 
