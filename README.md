@@ -45,6 +45,14 @@ Let's connect! Find me on:
 [![Medium](https://img.shields.io/badge/Medium-%23202020.svg?style=for-the-badge&logo=medium)](http://www.medium.com/@datasciencemeetscybersecurity)
 [![Twitter](https://img.shields.io/badge/Twitter-%23202020.svg?style=for-the-badge&logo=twitter)](https://www.x.com/VidhiWaghela)
 
+
+#####
+
+![Commit Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi1290&layout=compact)
+
+
+
+
 **My GitHub Stats**
 
 [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vidhi1290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Vidhi1290)
